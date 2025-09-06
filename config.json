@@ -116,9 +116,7 @@
             "api": "https://p2100.net/api.php/provide/vod",
             "name": "飘零资源",
             "detail": "https://p2100.net"
-        }
-    },
-    "lives": {
+        },
         "yang-1989": {
             "name": "YanG",
             "url": "https://tv-1.iill.top/m3u/Gather"
